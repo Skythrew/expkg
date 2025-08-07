@@ -27,6 +27,8 @@ Actually, they are the same! There are just more options to make EXPKG work corr
 
 **The default location for the config file is `~/.config/expkg/expkg.toml` . Use the `-c` command argument to indicate another location.** 
 
+**Please be aware that this location can be quite dangerous as it is editable by your user (and not only root). I advise you to use `expkg` as root to avoid potential security risks linked to this, so you should store your config file in `/root/.config/expkg/expkg.toml`**
+
 Here's a simple example:
 
 ```toml
