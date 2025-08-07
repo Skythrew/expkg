@@ -84,7 +84,7 @@ def main() -> None:
 
         params = config[package]
 
-        url = params['rpmdurl']
+        url = params['expkgurl']
         prev_char = url[0]
         scanning = False
         matches = []
