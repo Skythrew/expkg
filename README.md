@@ -16,7 +16,7 @@ I hope you'll enjoy it!
 First, install the `uv` package on your system. It basically helps managing Python dependencies in isolated environments
 and it is needed as a dependency of this script, to make your life easier.
 
-Download `expkg.py`, do a simple `chmod +x expkg.py` in your Terminal where the file is stored and launch `./expkg.py`!
+Download `expkg.py`, do a simple `chmod +x expkg.py` in your Terminal where the file is stored and launch `sudo ./expkg.py`!
 
 But don't forget to configure EXPKG otherwise it would be quite useless!
 
